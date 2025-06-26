@@ -1,0 +1,6 @@
+01 node_modules
+02 dist
+03 .env
+04 .DS_Store
+05 *.log
+06 .vscode
